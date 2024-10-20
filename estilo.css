@@ -1,0 +1,38 @@
+h1 {
+    font-size: 20px;
+    text-align: left;
+    color: #D71C1F;
+}
+
+.ArialF {
+    font-family: Arial;
+}
+
+FormatTxt {
+    font-size: 10px;
+    text-align: left;
+    color: #808080;
+}
+
+
+form {
+    color: black;
+    font-size: 18px;
+    text-align: left;
+}
+
+/*Etiqueta de Añadir Lote*/
+
+
+.ms-Button1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 80px;
+    background-color: green;
+    text-align: center;
+
+}
+
+.ms-Button-label1 {
+    color: white;
+}
